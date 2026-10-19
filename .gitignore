@@ -1,0 +1,14 @@
+# Never leaves this PC
+/public-encrypted/
+
+# Keys and credentials
+.env
+.env.*
+*.env
+*.env.txt
+
+# System clutter
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
